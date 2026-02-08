@@ -2,5 +2,11 @@
   <Folder Name="/Samples/">
     <Project Path="Samples/ViMate.Samples.Console/ViMate.Samples.Console.csproj" />
   </Folder>
+  <Folder Name="/_files/">
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+    <File Path="stylecop.json" />
+    <File Path="../../.gitignore" />
+  </Folder>
   <Project Path="ViMate.Framework/ViMate.Framework.csproj" />
 </Solution>

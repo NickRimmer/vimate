@@ -1,5 +1,7 @@
 # Autonomous Agent Framework Concept (v0)
 
+> Implementation plan: see [v0-implementation-plan.md](v0-implementation-plan.md).
+
 ## Intro
 This project explores an autonomous-agent model that is different from the usual prompt-response loop.
 

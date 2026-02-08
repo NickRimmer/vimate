@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Folder Name="/Samples/">
+    <Project Path="Samples/ViMate.Samples.Console/ViMate.Samples.Console.csproj" />
+  </Folder>
+  <Project Path="ViMate.Framework/ViMate.Framework.csproj" />
+</Solution>
